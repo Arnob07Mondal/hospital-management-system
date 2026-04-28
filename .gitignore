@@ -1,0 +1,25 @@
+# Frontend dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Backend build files
+backend/build/
+backend/.gradle/
+backend/out/
+backend/bin/
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Executables and artifacts
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
